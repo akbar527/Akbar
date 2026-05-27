@@ -1,0 +1,11 @@
+cid,compound_name,pubchem_title,canonical_smiles,predicted_probability_active,predicted_label,pdb_id,binding_affinity_kcal_mol,docking_rank,binding_site_notes
+666418,prothionamide,Prothionamide,CCCC1=NC=CC(=C1)C(=S)N,0.6384945374161063,active_like,1MO3,,,
+54671203,doxycycline,"4-(Dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-3,4,4a,5,5a,6,12,12a-octahydrotetracene-2-carboximidic acid",CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,0.62728835978836,active_like,1MO3,,,
+135398735,rifampicin,Rifampicin,CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C=NN5CCN(CC5)C)C,0.618994708994709,active_like,1MO3,,,
+1046,pyrazinamide,Pyrazinamide,C1=CN=C(C=N1)C(=O)N,0.519178965933352,active_like,1MO3,,,
+135403821,rifapentine,Rifapentine,CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C=NN5CCN(CC5)C6CCCC6)C,0.506388888888889,active_like,1MO3,,,
+4594,omeprazole,Prilosec,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,0.49093915343915334,inactive_like,1MO3,,,
+2794,clofazimine,Clofazimine,CC(C)N=C1C=C2C(=NC3=CC=CC=C3N2C4=CC=C(C=C4)Cl)C=C1NC5=CC=C(C=C5)Cl,0.4423015873015873,inactive_like,1MO3,,,
+23691029,isoniazid sodium methanesulfonate,Isoniazid sodium methanesulfonate,C1=CN=CC=C1C(=O)NNCS(=O)(=O)[O-].[Na+],0.4316776895943564,inactive_like,1MO3,,,
+149096,levofloxacin,Levofloxacin,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,0.40601851851851856,inactive_like,1MO3,,,
+152946,moxifloxacin,Moxifloxacin,COC1=C2C(=CC(=C1N3CC4CCCNC4C3)F)C(=O)C(=CN2C5CC5)C(=O)O,0.39759259259259266,inactive_like,1MO3,,,
