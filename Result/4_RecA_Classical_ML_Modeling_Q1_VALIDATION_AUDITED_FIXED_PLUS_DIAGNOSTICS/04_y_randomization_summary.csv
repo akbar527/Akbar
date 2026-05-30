@@ -1,0 +1,2 @@
+Best_Model,Original_ROC_AUC,Randomized_ROC_AUC_mean,Randomized_ROC_AUC_std,Empirical_p_value,N_permutations
+RandomForest,0.8323255228017132,0.5012912572436382,0.059831476264182684,0.009900990099009901,100

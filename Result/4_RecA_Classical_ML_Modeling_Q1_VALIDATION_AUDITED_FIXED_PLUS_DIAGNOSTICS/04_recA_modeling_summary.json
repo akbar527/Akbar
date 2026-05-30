@@ -1,0 +1,39 @@
+{
+  "input_file": "/content/02_recA_modeling_matrix.csv",
+  "dataset_shape_original": [
+    628,
+    10153
+  ],
+  "feature_matrix_shape": [
+    628,
+    5916
+  ],
+  "target_column": "class",
+  "class_distribution": {
+    "0": 314,
+    "1": 314
+  },
+  "test_size": 0.2,
+  "random_state": 42,
+  "cross_validation": "StratifiedKFold(n_splits=10, shuffle=True, random_state=42)",
+  "models_benchmarked": [
+    "SVM",
+    "RandomForest",
+    "ExtraTrees",
+    "XGBoost"
+  ],
+  "best_model": "RandomForest",
+  "best_model_test_metrics": {
+    "Model": "RandomForest",
+    "Dataset": "Independent_Test",
+    "Accuracy": 0.7698412698412699,
+    "Precision": 0.7931034482758621,
+    "Recall": 0.7301587301587301,
+    "Sensitivity": 0.7301587301587186,
+    "Specificity": 0.8095238095237967,
+    "F1_score": 0.7603305785123967,
+    "MCC": 0.5413902920037097,
+    "ROC_AUC": 0.8323255228017132
+  },
+  "output_directory": "/content/outputs/modeling_publication_ready"
+}

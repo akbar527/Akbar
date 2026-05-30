@@ -1,0 +1,9 @@
+Metric,Value
+ROC-AUC,0.8323255228017132
+Accuracy,0.7777777777777778
+True Negative,51.0
+False Positive,12.0
+False Negative,16.0
+True Positive,47.0
+Correct Class 0 below threshold,51.0
+Correct Class 1 above threshold,47.0

@@ -1,0 +1,10 @@
+step,records
+Raw ChEMBL activity records,2211
+Exact EC50 records in nM,1914
+After removing missing standard_value/canonical_smiles,1912
+After SMILES deduplication,1907
+Active compounds,314
+Intermediate compounds,992
+Inactive compounds,601
+Final binary active/inactive dataset,915
+Balanced 50:50 modeling dataset,628

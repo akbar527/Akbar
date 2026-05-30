@@ -1,0 +1,11 @@
+cid,compound_name,pubchem_title,canonical_smiles,predicted_probability_active,predicted_label,pdb_id,binding_affinity_kcal_mol,docking_rank,binding_site_notes
+666418,prothionamide,Prothionamide,CCCC1=NC=CC(=C1)C(=S)N,0.4672629068462403,inactive_like,1MO3,,,
+2794,clofazimine,Clofazimine,CC(C)N=C1C=C2C(=NC3=CC=CC=C3N2C4=CC=C(C=C4)Cl)C=C1NC5=CC=C(C=C5)Cl,0.4672629068462403,inactive_like,1MO3,,,
+135403821,rifapentine,Rifapentine,CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C=NN5CCN(CC5)C6CCCC6)C,0.4672629068462403,inactive_like,1MO3,,,
+1046,pyrazinamide,Pyrazinamide,C1=CN=C(C=N1)C(=O)N,0.4672629068462403,inactive_like,1MO3,,,
+60823,atorvastatin,Atorvastatin,CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4,0.4672629068462403,inactive_like,1MO3,,,
+3767,isoniazid,Isoniazid,C1=CN=CC=C1C(=O)NN,0.4672629068462403,inactive_like,1MO3,,,
+456199,pretomanid,Pretomanid,C1C(COC2=NC(=CN21)[N+](=O)[O-])OCC3=CC=C(C=C3)OC(F)(F)F,0.4672629068462403,inactive_like,1MO3,,,
+5388906,bedaquiline,Bedaquiline,CN(C)CCC(C1=CC=CC2=CC=CC=C21)(C(C3=CC=CC=C3)C4=C(N=C5C=CC(=CC5=C4)Br)OC)O,0.4672629068462403,inactive_like,1MO3,,,
+54671203,doxycycline,"4-(Dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-3,4,4a,5,5a,6,12,12a-octahydrotetracene-2-carboximidic acid",CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,0.4672629068462403,inactive_like,1MO3,,,
+23691029,isoniazid sodium methanesulfonate,Isoniazid sodium methanesulfonate,C1=CN=CC=C1C(=O)NNCS(=O)(=O)[O-].[Na+],0.4672629068462403,inactive_like,1MO3,,,

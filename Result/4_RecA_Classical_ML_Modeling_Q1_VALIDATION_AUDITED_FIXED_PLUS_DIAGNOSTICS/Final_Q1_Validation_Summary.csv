@@ -1,0 +1,12 @@
+Metric,Value
+ROC-AUC,0.832
+PR-AUC,0.883
+Accuracy,0.778
+Sensitivity,0.714
+Specificity,0.810
+MCC,0.526
+5-Fold CV AUC,0.837
+Bootstrap 95% CI,0.752-0.905
+Brier Score,0.158
+Y-Randomization p-value,0.0099
+Applicability Domain,99/126

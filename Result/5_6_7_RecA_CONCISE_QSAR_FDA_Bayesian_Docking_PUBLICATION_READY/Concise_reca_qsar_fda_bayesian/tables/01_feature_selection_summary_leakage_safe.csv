@@ -1,0 +1,2 @@
+selection_source,training_rows,training_columns_original,removed_leakage_columns,safe_numeric_feature_count,candidate_feature_count,final_selected_feature_count,active_count,inactive_count
+Leakage-safe top ANOVA F-score features (feature-list column: feature),628,2133,"standard_value, canonical_smiles, bioactivity_class, Name, molecule_chembl_id, class, standard_value_nM, pEC50",2125,2125,100,314,314

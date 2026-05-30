@@ -1,0 +1,7 @@
+section,item,value,metric,score
+Feature Selection Test,Best SVM-RFE model,SVM,ROC-AUC,0.9157990040742418
+Feature Selection Test,Best RF-RFE model,RF,ROC-AUC,0.8483476686283385
+Baseline Modeling,SVM,top_200_fscore,ROC-AUC,0.805115436849253
+Baseline Modeling,RandomForest,top_200_fscore,ROC-AUC,0.8166591217745586
+Optimized Modeling,SVM,RF-RFE subset (100 features),ROC-AUC,0.816206428248076
+Optimized Modeling,RandomForest,RF-RFE subset (100 features),ROC-AUC,0.8460842009959257
