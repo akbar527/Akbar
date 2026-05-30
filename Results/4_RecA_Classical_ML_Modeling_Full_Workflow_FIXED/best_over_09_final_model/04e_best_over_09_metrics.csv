@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1_score,mcc,roc_auc,train_rows,test_rows,selected_feature_count
+ExtraTrees_k40_n180_leaf2_mf0p4,0.8015873015873016,0.8392857142857143,0.746031746031746,0.7899159663865546,0.606932736749943,0.8838498362307886,502,126,40

@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+xgboost
+shap
+lime
+padelpy
+chembl_webresource_client
+requests
+catboost
+nbformat

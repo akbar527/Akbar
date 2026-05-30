@@ -1,0 +1,11 @@
+step,records
+Raw exact EC50 records,1914
+After removing missing values,1912
+After SMILES deduplication,1907
+Active compounds,314
+Intermediate compounds,992
+Inactive compounds,601
+Final binary dataset,915
+Balanced active instances,314
+Balanced inactive instances,314
+Balanced modeling dataset,628
