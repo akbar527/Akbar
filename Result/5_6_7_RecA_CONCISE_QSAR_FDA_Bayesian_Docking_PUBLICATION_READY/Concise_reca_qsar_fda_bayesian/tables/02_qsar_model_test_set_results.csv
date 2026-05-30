@@ -1,0 +1,5 @@
+model,best_cv_roc_auc,test_accuracy,test_precision,test_recall,test_f1_score,test_roc_auc,best_parameters
+RandomForest,0.8272250980392156,0.7936507936507936,0.8363636363636363,0.7301587301587301,0.7796610169491526,0.8284202569916856,"{""model__max_depth"": null, ""model__min_samples_split"": 5, ""model__n_estimators"": 200}"
+ExtraTrees,0.8194337254901962,0.7857142857142857,0.8461538461538461,0.6984126984126984,0.7652173913043478,0.8276643990929705,"{""model__max_depth"": 20, ""model__min_samples_split"": 5, ""model__n_estimators"": 200}"
+XGBoost,0.8164282352941177,0.7777777777777778,0.8301886792452831,0.6984126984126984,0.7586206896551724,0.8216175359032502,"{""model__colsample_bytree"": 0.8, ""model__learning_rate"": 0.01, ""model__max_depth"": 5, ""model__n_estimators"": 500, ""model__subsample"": 0.8}"
+SVM_RBF,0.8152799999999999,0.753968253968254,0.8076923076923077,0.6666666666666666,0.7304347826086957,0.8155706727135299,"{""model__C"": 1, ""model__gamma"": ""scale""}"

@@ -1,0 +1,2 @@
+dataset,n_bayesian_features,accuracy,precision,recall,f1_score,roc_auc
+holdout_test,100,0.7063492063492064,0.7096774193548387,0.6984126984126984,0.704,0.7775258251448727

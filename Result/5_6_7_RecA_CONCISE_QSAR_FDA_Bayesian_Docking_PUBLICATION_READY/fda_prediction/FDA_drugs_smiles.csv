@@ -1,0 +1,11 @@
+Name,canonical_smiles
+Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Paracetamol,CC(=O)NC1=CC=C(C=C1)O
+Metformin,CNC(=N)NC(=N)N
+Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+Naproxen,COC1=CC=C2C=C(C=CC2=C1)C(C)C(=O)O
+Diclofenac,O=C(O)CC1=CC=CC=C1NC2=C(Cl)C=CC=C2Cl
+Warfarin,CC(=O)CC(C1=CC=CC=C1)C2=C(O)C3=CC=CC=C3OC2=O
+Atorvastatin,CC(C)C1=CC=C(C=C1)C(C)C(=O)NC(CC(O)CC(O)CC(=O)O)C(=O)O
+Amoxicillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=C(O)C=C3)C(=O)N2[C@H]1C(=O)O

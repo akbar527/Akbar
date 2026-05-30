@@ -1,0 +1,14 @@
+item,value
+target_protein,RecA
+activity_endpoint,EC50-derived binary classification
+input_file,/content/recA_ec50_binary.csv
+balanced_file_used,True
+fingerprint_families,"AtomPairs2D, EState, CDKextended, CDK, CDKgraphonly, KlekotaRoth, MACCS, PubChem, Substructure"
+input_compounds,915
+processed_compounds,915
+final_modeling_rows,628
+fingerprint_feature_count,10145
+active_class_count,314
+inactive_class_count,314
+combined_fingerprint_output,/content/outputs/recA_chembl/padel/combined_fingerprints.csv
+final_modeling_matrix_output,/content/outputs/02_recA_modeling_matrix.csv

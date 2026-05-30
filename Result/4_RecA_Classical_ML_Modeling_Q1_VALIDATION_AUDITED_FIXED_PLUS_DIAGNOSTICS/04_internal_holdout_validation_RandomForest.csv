@@ -1,0 +1,6 @@
+Validation_type,Metric,Value
+Internal independent holdout,ROC-AUC,0.8508064516129032
+Internal independent holdout,Accuracy,0.7619047619047619
+Internal independent holdout,Sensitivity,0.7419354838709677
+Internal independent holdout,Specificity,0.78125
+Internal independent holdout,MCC,0.523713687421822

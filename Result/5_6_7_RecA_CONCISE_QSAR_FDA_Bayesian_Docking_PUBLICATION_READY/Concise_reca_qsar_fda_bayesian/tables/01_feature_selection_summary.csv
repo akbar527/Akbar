@@ -1,0 +1,2 @@
+selection_source,training_rows,training_columns,final_selected_feature_count,active_count,inactive_count
+Top ANOVA F-score features,628,2133,100,314,314
