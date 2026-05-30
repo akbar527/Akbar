@@ -1,0 +1,10 @@
+{
+  "feature_selection_summary": "/content/outputs/concise_reca_qsar_fda_bayesian_docking/tables/01_feature_selection_summary.csv",
+  "final_selected_features": "/content/outputs/concise_reca_qsar_fda_bayesian_docking/tables/01_final_selected_features.csv",
+  "qsar_test_set_results": "/content/outputs/concise_reca_qsar_fda_bayesian_docking/tables/02_qsar_model_test_set_results.csv",
+  "qsar_test_classification_report": "/content/outputs/concise_reca_qsar_fda_bayesian_docking/tables/02_final_qsar_test_classification_report.csv",
+  "fda_qsar_predictions": "/content/outputs/concise_reca_qsar_fda_bayesian_docking/tables/03_fda_dataset_qsar_prediction_results.csv",
+  "bayesian_holdout_validation": "/content/outputs/concise_reca_qsar_fda_bayesian_docking/tables/04_bayesian_classification_holdout_validation_results.csv",
+  "fda_bayesian_predictions": "/content/outputs/concise_reca_qsar_fda_bayesian_docking/tables/04_fda_predictions_with_bayesian_classification.csv",
+  "docking_validation": "/content/outputs/concise_reca_qsar_fda_bayesian_docking/tables/05_final_fda_qsar_bayesian_docking_validation_table.csv"
+}

@@ -1,0 +1,6 @@
+Metric,Value
+Optimum features,100
+Final model,RandomForest
+ROC-AUC (test),0.8460842009959257
+F1-score,0.7764705882352941
+Accuracy,0.7978723404255319

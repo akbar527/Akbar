@@ -1,0 +1,4 @@
+model,input_features,selected_features,best_cv_accuracy,selected_file,ranking_file,dataset_file
+svm_linear,1000,20,,/content/outputs/feature_selection/rfe/03_recA_rfecv_selected_features_svm_linear.csv,/content/outputs/feature_selection/rfe/03_recA_rfecv_ranking_svm_linear.csv,/content/outputs/feature_selection/rfe/03_recA_rfecv_dataset_svm_linear.csv
+random_forest,1000,20,,/content/outputs/feature_selection/rfe/03_recA_rfecv_selected_features_random_forest.csv,/content/outputs/feature_selection/rfe/03_recA_rfecv_ranking_random_forest.csv,/content/outputs/feature_selection/rfe/03_recA_rfecv_dataset_random_forest.csv
+xgboost,1000,20,,/content/outputs/feature_selection/rfe/03_recA_rfecv_selected_features_xgboost.csv,/content/outputs/feature_selection/rfe/03_recA_rfecv_ranking_xgboost.csv,/content/outputs/feature_selection/rfe/03_recA_rfecv_dataset_xgboost.csv

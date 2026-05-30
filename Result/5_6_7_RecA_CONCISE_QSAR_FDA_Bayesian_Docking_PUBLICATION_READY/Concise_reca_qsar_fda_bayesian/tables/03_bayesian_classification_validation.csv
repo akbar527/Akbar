@@ -1,0 +1,4 @@
+Validation,Metric,Value
+Bayesian Classification,ROC-AUC,0.779793398841018
+Bayesian Classification,Accuracy,0.7063492063492064
+Bayesian Classification,MCC,0.41526976724996095
