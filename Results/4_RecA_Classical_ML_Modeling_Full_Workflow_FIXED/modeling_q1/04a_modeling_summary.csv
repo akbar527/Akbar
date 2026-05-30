@@ -1,0 +1,2 @@
+best_model,best_test_roc_auc,train_rows,test_rows,original_feature_count,selected_feature_count
+RandomForest,0.8589065255731922,502,126,200,80
